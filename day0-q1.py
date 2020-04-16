@@ -1,7 +1,7 @@
 # Given an array, X of N integers 
 # Calculate and print the respective Mean, Median and Mode 
-''' If your array contains more than one modal value, 
-choose the numerically smallest one. '''
+# If your array contains more than one modal value..
+# ..choose the numerically smallest one. 
 
 import statistics as st
 from collections import Counter
